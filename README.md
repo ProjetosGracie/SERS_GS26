@@ -85,8 +85,6 @@ REFERENCIAS.md                     fontes verificáveis
 dados/                             consumo, premissas, comparação, sensibilidade e base do assistente
 graficos/                          gráficos usados na análise
 testes/                            registro dos testes com usuários
-docs/roteiro_video.md              roteiro do vídeo técnico
-entrega.txt                        integrantes e links da entrega
 ```
 
 ## Como executar
