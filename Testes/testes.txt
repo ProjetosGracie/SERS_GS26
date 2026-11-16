@@ -1,0 +1,4 @@
+﻿Participante (anônimo),Situação testada,Compreensão (1-5),Utilidade (1-5),Comentário recebido,Ajuste realizado
+Participante 1,Quanto gasta o chuveiro elétrico e como economizar?,5,5,Achou excelente e direto ao ponto. Comentou que a família costuma tomar banhos longos e não sabia o impacto exato em reais.,Nenhum ajuste necessário; entendeu o foco no chuveiro como principal gasto.
+Participante 2,Vale a pena instalar painel solar sendo inquilino em casa alugada?,4,5,"Entendeu bem as limitações, mas sugeriu deixar mais claro, logo no início, que o proprietário precisa autorizar e arcar com a obra.",O aviso de autorização do proprietário passou a aparecer no início da resposta sobre solar e foi criada uma resposta própria para quem mora de aluguel.
+Participante 3,Como funcionam as lâmpadas LED comparadas às incandescentes antigas?,5,5,Achou a conta muito simples e rápida.,Nenhum ajuste.
