@@ -1,0 +1,13 @@
+# Referências
+
+Consulta às fontes: 12/11/2026 (exceto onde indicado).
+
+- ANEEL — Resolução Normativa nº 1.000/2021 (custo de disponibilidade) e reajuste tarifário Enel SP 2026 (efeito médio 10,18%): https://cenarioenergia.com.br/2026/06/30/aneel-aprova-reajuste-da-enel-sao-paulo-com-efeito-medio-de-1018/ (acesso 12/11/2026). Reajuste por classe (residencial B1 ~9,02%; baixa tensão ~8,97%): https://visaooeste.com.br/conta-de-luz-da-enel-sao-paulo-tera-aumento-de-ate-15/ (acesso 16/11/2026)
+- Fatura pública Enel SP, residencial monofásica, 262 kWh, ago/2025 (TUSD e TE): https://www.camara.leg.br/cota-parlamentar/documentos/publ/3657/2025/8003771.pdf (acesso 12/11/2026)
+- Fatura pública Enel SP, monofásica, consumo de 30 kWh (mínimo faturável): https://www6g.senado.leg.br/transparencia/sen/download/ceaps/documento/263575 (acesso 12/11/2026)
+- BRASIL — Lei nº 14.300/2022 (micro e minigeração distribuída; escalonamento do Fio B, 60% em 2026): https://www.planalto.gov.br ; resumo de 2026 em https://monitordomercado.com.br/economia-2/399791-quanto-custa-instalar-energia-solar-em-uma-casa-pequena-em-2026-e-quando-a-conta-de-luz-ainda-nao-compensa-o-investimento/ (acesso 12/11/2026)
+- CRESESB/CEPEL — SunData (irradiação solar por coordenada): https://cresesb.cepel.br/sundata/index.php ; INPE/LABREN — Atlas Brasileiro de Energia Solar (2ª ed., 2017); material de curso USP (AMT de São Paulo): https://edisciplinas.usp.br/mod/resource/view.php?id=4094581
+- Preço de sistemas fotovoltaicos: Solfácil Radar 3T/2025 e 1T/2026 (R$ 2,45–2,57/Wp): https://cenarioenergia.com.br/2025/11/04/preco-da-energia-solar-sobe-1-no-3o-trimestre-mas-setor-mantem-competitividade-e-atratividade-aponta-solfacil/ ; Greener — Estudo Estratégico GD 2025 (4 kWp = R$ 11.360), via Olhar Digital: https://olhardigital.com.br/curiosidades/?p=10663
+- MCTI/SIRENE — Fator médio de emissão do SIN (2023: 0,0385 tCO2/MWh): https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2024/02/fator-de-emissao-de-co2-na-geracao-de-energia-eletrica-no-brasil-em-2023-e-o-menor-em-12-anos ; fatores mensais 2025: https://cenarioenergia.com.br/2025/06/13/brasil-reduz-intensidade-de-carbono-na-geracao-eletrica-com-inclusao-de-novas-renovaveis-na-base-de-calculo-oficial/
+- Potências típicas de aparelhos (dados Procel/INMETRO): https://valorfinal.com.br/tabela-potencia-aparelhos ; casa-modelo de consumo: https://valorfinal.com.br/guia/como-economizar-energia-em-casa
+- IPCC AR5 WGIII (2014), Anexo III — emissões de ciclo de vida de tecnologias de geração: https://www.ipcc.ch (conferir o valor mediano de solar fotovoltaica usado)
