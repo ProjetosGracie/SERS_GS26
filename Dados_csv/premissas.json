@@ -1,0 +1,13 @@
+{
+  "DIAS_MES": 30,
+  "TARIFA": 1.03,
+  "CUSTO_DISP": 30,
+  "HSP": 4.3,
+  "PR": 0.78,
+  "CUSTO_KWP": 4500.0,
+  "FATOR_COMP": 0.895,
+  "DEGRADACAO": 0.005,
+  "REAJUSTE_TAR": 0.04,
+  "FE_REDE": 0.0385,
+  "FE_FV_CICLO": 0.041
+}

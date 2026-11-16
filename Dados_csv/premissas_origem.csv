@@ -1,0 +1,18 @@
+﻿Parâmetro,Valor,Unidade,Período/referência,Origem / justificativa,Classificação
+"Tarifa (TUSD+TE, c/ tributos) ago/2025",0.93172,R$/kWh,ago/2025,"Fatura pública de unidade residencial monofásica da Enel SP (262 kWh) — camara.leg.br, cota parlamentar",PÚBLICO
+Reajuste tarifário Enel SP 2026,10.18,%,vigência 04/07/2026,"ANEEL — efeito médio de todas as classes (10,18%). Para residenciais B1 foi divulgado ~9,02% (ver REFERENCIAS.md); a sensibilidade cobre essa diferença",PÚBLICO
+Tarifa adotada,1.03,R$/kWh,nov/2026 (sem bandeira),(TUSD+TE ago/2025) × (1 + reajuste 2026),CALCULADO
+Custo de disponibilidade monofásico,30.0,kWh/mês,vigente,"REN ANEEL 1000/2021; fatura pública de 30 kWh monofásico (Enel SP, jul/2025)",PÚBLICO
+Irradiação / HSP,4.3,kWh/m².dia (média anual),média anual,"Faixa 4,1–4,6 (material USP/AMT SP; SunData/CRESESB). Valor central escolhido; confirmar no SunData",ESTIMADO
+Taxa de desempenho (PR),0.78,adimensional,média anual,"Faixa típica de projeto fotovoltaico (0,75–0,85)",ESTIMADO
+Custo do sistema FV pequeno,4500.0,R$/kWp,2025–2026,"Solfácil (R$ 2,45/Wp, média nacional 1T/2026), Greener (4 kWp = R$ 2,84/Wp, jun/2025), Monitor do Mercado (1,5–3 kWp = R$ 10–18 mil, 2026)",ESTIMADO
+Fio B sobre energia injetada,60.0,%,2026,Lei 14.300/2022 (escalonamento; 60% em 2026),PÚBLICO
+Fração injetada na rede,0.7,adimensional,média anual,Perfil: família ausente durante o dia,HIPÓTESE
+Peso do Fio B na tarifa,0.25,adimensional,—,Ordem de grandeza; conferir na conta/ANEEL da distribuidora,ESTIMADO
+Fator de compensação,0.895,adimensional,2026,1 − fração injetada × peso do Fio B × 60%,CALCULADO
+Degradação dos módulos,0.5,% ao ano,25 anos,Valor típico de garantias de fabricantes,ESTIMADO
+Reajuste anual da tarifa,4.0,% ao ano,25 anos,"Premissa conservadora frente aos reajustes recentes da Enel SP (13,94% em 2025; 10,18% em 2026)",ESTIMADO
+Fator de emissão do SIN,0.0385,kgCO2/kWh,média anual 2023,"MCTI (SIRENE) — 0,0385 tCO2/MWh",PÚBLICO
+Emissão de ciclo de vida da solar,0.041,kgCO2e/kWh,vida útil,"IPCC AR5 WGIII, Anexo III (mediana, solar de telhado)",ESTIMADO
+Potências dos aparelhos,,W,—,Faixas típicas Procel/INMETRO (tabela de potências); ver coluna 'origem' na tabela de consumo,ESTIMADO
+Tempo de uso dos aparelhos,,h/dia; dias/mês,30 dias,"Hipóteses de uso de família de 4 pessoas (ex.: 4 banhos × 8 min, TV 5 h/dia)",HIPÓTESE

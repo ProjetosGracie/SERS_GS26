@@ -1,0 +1,124 @@
+{
+  "referencias": {
+    "palavras_chave": [
+      "referenc",
+      "fonte",
+      "bibliograf",
+      "de onde"
+    ],
+    "resposta": "📚 Fontes usadas:\n- ANEEL — Resolução Normativa nº 1.000/2021 (custo de disponibilidade) e reajuste tarifário Enel SP 2026 (efeito médio 10,18%): https://cenarioenergia.com.br/2026/06/30/aneel-aprova-reajuste-da-enel-sao-paulo-com-efeito-medio-de-1018/ (acesso 12/11/2026). Reajuste por classe (residencial B1 ~9,02%; baixa tensão ~8,97%): https://visaooeste.com.br/conta-de-luz-da-enel-sao-paulo-tera-aumento-de-ate-15/ (acesso 16/11/2026)\n- Fatura pública Enel SP, residencial monofásica, 262 kWh, ago/2025 (TUSD e TE): https://www.camara.leg.br/cota-parlamentar/documentos/publ/3657/2025/8003771.pdf (acesso 12/11/2026)\n- Fatura pública Enel SP, monofásica, consumo de 30 kWh (mínimo faturável): https://www6g.senado.leg.br/transparencia/sen/download/ceaps/documento/263575 (acesso 12/11/2026)\n- BRASIL — Lei nº 14.300/2022 (micro e minigeração distribuída; escalonamento do Fio B, 60% em 2026): https://www.planalto.gov.br ; resumo de 2026 em https://monitordomercado.com.br/economia-2/399791-quanto-custa-instalar-energia-solar-em-uma-casa-pequena-em-2026-e-quando-a-conta-de-luz-ainda-nao-compensa-o-investimento/ (acesso 12/11/2026)\n- CRESESB/CEPEL — SunData (irradiação solar por coordenada): https://cresesb.cepel.br/sundata/index.php ; INPE/LABREN — Atlas Brasileiro de Energia Solar (2ª ed., 2017); material de curso USP (AMT de São Paulo): https://edisciplinas.usp.br/mod/resource/view.php?id=4094581\n- Preço de sistemas fotovoltaicos: Solfácil Radar 3T/2025 e 1T/2026 (R$ 2,45–2,57/Wp): https://cenarioenergia.com.br/2025/11/04/preco-da-energia-solar-sobe-1-no-3o-trimestre-mas-setor-mantem-competitividade-e-atratividade-aponta-solfacil/ ; Greener — Estudo Estratégico GD 2025 (4 kWp = R$ 11.360), via Olhar Digital: https://olhardigital.com.br/curiosidades/?p=10663\n- MCTI/SIRENE — Fator médio de emissão do SIN (2023: 0,0385 tCO2/MWh): https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2024/02/fator-de-emissao-de-co2-na-geracao-de-energia-eletrica-no-brasil-em-2023-e-o-menor-em-12-anos ; fatores mensais 2025: https://cenarioenergia.com.br/2025/06/13/brasil-reduz-intensidade-de-carbono-na-geracao-eletrica-com-inclusao-de-novas-renovaveis-na-base-de-calculo-oficial/\n- Potências típicas de aparelhos (dados Procel/INMETRO): https://valorfinal.com.br/tabela-potencia-aparelhos ; casa-modelo de consumo: https://valorfinal.com.br/guia/como-economizar-energia-em-casa\n- IPCC AR5 WGIII (2014), Anexo III — emissões de ciclo de vida de tecnologias de geração: https://www.ipcc.ch (conferir o valor mediano de solar fotovoltaica usado)"
+  },
+  "premissas": {
+    "palavras_chave": [
+      "premissa",
+      "origem",
+      "dados usad"
+    ],
+    "resposta": "🧾 Origem dos números: tarifa R$ 1,03/kWh (fatura pública Enel SP ago/2025 × reajuste ANEEL 2026 de 10,18%) [calculado]; custo mínimo de 30 kWh (ANEEL) [público]; fator de emissão 0,0385 kgCO₂/kWh (MCTI 2023) [público]; Fio B de 60% em 2026 (Lei 14.300) [público]; horas de sol de 4,3 kWh/m².dia, custo do sistema de R$ 4.500/kWp e consumo dos aparelhos [estimados]; hábitos de uso [hipóteses].\n📚 Base: Registro de premissas deste projeto (digite 'referências' para a lista completa).\n⚠️ Estimativas com premissas (tarifa R$ 1,03/kWh, 4,3 h de sol pleno, perfil típico de 4 pessoas). Não são valores garantidos: confira sua conta de luz e peça orçamentos."
+  },
+  "limitacoes": {
+    "palavras_chave": [
+      "garant",
+      "certeza",
+      "limit",
+      "confiav",
+      "erro",
+      "precis"
+    ],
+    "resposta": "Limitações: o consumo do perfil é estimado; tarifa, bandeira, custo do sistema e clima variam; a Lei 14.300 altera a compensação da energia injetada; o retorno muda com os reajustes. Use como ponto de partida, não como promessa.\n📚 Base: Registro de premissas deste projeto (digite 'referências' para a lista completa).\n⚠️ Estimativas com premissas (tarifa R$ 1,03/kWh, 4,3 h de sol pleno, perfil típico de 4 pessoas). Não são valores garantidos: confira sua conta de luz e peça orçamentos."
+  },
+  "inquilino": {
+    "palavras_chave": [
+      "alugad",
+      "inquilin",
+      "alugu",
+      "proprietari",
+      "locatari"
+    ],
+    "resposta": "🏠 Se a casa é alugada, quem decide e paga a instalação de energia solar é o proprietário: é preciso a autorização dele, e a obra fica no imóvel dele. O que o inquilino pode fazer sozinho é a eficiência: banho mais curto, LED e régua com interruptor economizam ~73 kWh (~R$ 75/mês) por ~R$ 88, e as lâmpadas e a régua podem ser levadas na mudança.\n📚 Base: Lei 14.300/2022 · ANEEL · Procel/INMETRO (digite 'referências' para a lista completa).\n⚠️ Estimativas com premissas (tarifa R$ 1,03/kWh, 4,3 h de sol pleno, perfil típico de 4 pessoas). Não são valores garantidos: confira sua conta de luz e peça orçamentos."
+  },
+  "chuveiro": {
+    "palavras_chave": [
+      "chuveir",
+      "banho"
+    ],
+    "resposta": "🚿 O chuveiro elétrico é o maior gasto da casa: cerca de 88 kWh/mês (R$ 91). Reduzir o banho em 25% (de 8 para 6 minutos) economiza cerca de 22 kWh, ou R$ 23 por mês, sem gastar nada. Na posição 'verão' o consumo também cai.\n📚 Base: Procel/INMETRO (potência dos aparelhos) · Enel SP/ANEEL (tarifa) (digite 'referências' para a lista completa).\n⚠️ Estimativas com premissas (tarifa R$ 1,03/kWh, 4,3 h de sol pleno, perfil típico de 4 pessoas). Não são valores garantidos: confira sua conta de luz e peça orçamentos."
+  },
+  "lampada": {
+    "palavras_chave": [
+      "lampad",
+      "led",
+      "iluminac",
+      "incandescent"
+    ],
+    "resposta": "💡 A lâmpada LED gasta 9 W para dar a mesma luz de uma incandescente de 60 W. Trocar 6 lâmpadas: o consumo cai de ~54 para ~8 kWh/mês, economia de ~R$ 47/mês. Custo de ~R$ 48, que se paga em cerca de 1,0 mês(es).\n📚 Base: Procel/INMETRO (potências) · Enel SP/ANEEL (tarifa) (digite 'referências' para a lista completa).\n⚠️ Estimativas com premissas (tarifa R$ 1,03/kWh, 4,3 h de sol pleno, perfil típico de 4 pessoas). Não são valores garantidos: confira sua conta de luz e peça orçamentos."
+  },
+  "standby": {
+    "palavras_chave": [
+      "standby",
+      "stand-by",
+      "tomada",
+      "carregador",
+      "regua"
+    ],
+    "resposta": "🔌 Aparelhos em stand-by gastam ~6 kWh/mês. Com régua com interruptor (~R$ 40) o consumo cai para ~0,7 kWh. Basta desligar a régua quando não estiver em uso.\n📚 Base: Procel/INMETRO (potências) · Enel SP/ANEEL (tarifa) (digite 'referências' para a lista completa).\n⚠️ Estimativas com premissas (tarifa R$ 1,03/kWh, 4,3 h de sol pleno, perfil típico de 4 pessoas). Não são valores garantidos: confira sua conta de luz e peça orçamentos."
+  },
+  "geladeira": {
+    "palavras_chave": [
+      "geladeir",
+      "refrigerador",
+      "freezer"
+    ],
+    "resposta": "🧊 A geladeira antiga consome ~54 kWh/mês (R$ 56), cerca de 21% da casa, e funciona 24 h por dia. Mantenha a borracha da porta vedando e evite colocá-la perto do fogão. A troca por um modelo com selo Procel A não foi calculada nesta análise, pois exigiria preço e consumo do modelo novo: peça esses dados na loja antes de decidir.\n📚 Base: Procel/INMETRO (potências) · Enel SP/ANEEL (tarifa) (digite 'referências' para a lista completa).\n⚠️ Estimativas com premissas (tarifa R$ 1,03/kWh, 4,3 h de sol pleno, perfil típico de 4 pessoas). Não são valores garantidos: confira sua conta de luz e peça orçamentos."
+  },
+  "solar": {
+    "palavras_chave": [
+      "solar",
+      "paine",
+      "fotovolt",
+      "placa",
+      "renovav"
+    ],
+    "resposta": "⚠️ Antes de tudo: se a casa é alugada, o proprietário precisa autorizar e arcar com a obra.\n☀️ Solar fotovoltaica para o consumo atual: ~2,0 kWp, geração de ~201 kWh/mês, investimento de ~R$ 9.000, economia de ~R$ 186/mês e retorno em ~3,8 anos (vida útil de ~25 anos). Se a eficiência vier antes, o sistema cai para ~1,5 kWp (R$ 6.750). Requer telhado adequado e aprovação da distribuidora.\n📚 Base: CRESESB SunData · Solfácil/Greener (preços) · Lei 14.300/2022 · ANEEL (digite 'referências' para a lista completa).\n⚠️ Estimativas com premissas (tarifa R$ 1,03/kWh, 4,3 h de sol pleno, perfil típico de 4 pessoas). Não são valores garantidos: confira sua conta de luz e peça orçamentos."
+  },
+  "retorno": {
+    "palavras_chave": [
+      "retorno",
+      "payback",
+      "compensa",
+      "vale a pena",
+      "quanto tempo",
+      "investiment"
+    ],
+    "resposta": "⏱️ Retorno estimado: A) Eficiência em ~1,2 meses; B) Solar em ~3,8 anos; C) Eficiência + solar menor em ~2,6 anos. Recomendação: comece por A e avalie a solar depois.\n📚 Base: Solfácil/Greener (preços) · Lei 14.300/2022 · ANEEL (tarifa) (digite 'referências' para a lista completa).\n⚠️ Estimativas com premissas (tarifa R$ 1,03/kWh, 4,3 h de sol pleno, perfil típico de 4 pessoas). Não são valores garantidos: confira sua conta de luz e peça orçamentos."
+  },
+  "ambiente": {
+    "palavras_chave": [
+      "co2",
+      "carbono",
+      "ambient",
+      "emissa",
+      "sustent"
+    ],
+    "resposta": "🌱 CO₂ evitado líquido (kg/ano): A) 34; B) -6; C) 29. Como a rede elétrica brasileira já é muito limpa (0,0385 kgCO₂/kWh, MCTI 2023), o ganho climático é pequeno e, para a solar, praticamente nulo (a fabricação dos painéis emite algo parecido). O ganho principal é na conta de luz.\n📚 Base: MCTI/SIRENE (fator da rede, 2023) · IPCC AR5 (ciclo de vida da solar) (digite 'referências' para a lista completa).\n⚠️ Estimativas com premissas (tarifa R$ 1,03/kWh, 4,3 h de sol pleno, perfil típico de 4 pessoas). Não são valores garantidos: confira sua conta de luz e peça orçamentos."
+  },
+  "economia": {
+    "palavras_chave": [
+      "economi",
+      "reduzir",
+      "dica",
+      "comecar",
+      "o que fazer"
+    ],
+    "resposta": "✅ Plano sugerido: 1) banho 25% mais curto; 2) trocar as 6 lâmpadas por LED; 3) régua com interruptor contra o stand-by. Economia de ~73 kWh (~R$ 75/mês) por ~R$ 88. 4) Depois, avaliar energia solar.\n📚 Base: Procel/INMETRO · Enel SP/ANEEL (tarifa) (digite 'referências' para a lista completa).\n⚠️ Estimativas com premissas (tarifa R$ 1,03/kWh, 4,3 h de sol pleno, perfil típico de 4 pessoas). Não são valores garantidos: confira sua conta de luz e peça orçamentos."
+  },
+  "consumo": {
+    "palavras_chave": [
+      "consumo",
+      "gast",
+      "conta",
+      "quanto"
+    ],
+    "resposta": "📊 Perfil estimado: ~252 kWh/mês (~R$ 260). Maiores gastos: Chuveiro elétrico (88 kWh, 35%); Lâmpadas incandescentes 60 W (54 kWh, 21%); Geladeira antiga (54 kWh, 21%).\n📚 Base: Procel/INMETRO · faturas públicas da Enel SP (digite 'referências' para a lista completa).\n⚠️ Estimativas com premissas (tarifa R$ 1,03/kWh, 4,3 h de sol pleno, perfil típico de 4 pessoas). Não são valores garantidos: confira sua conta de luz e peça orçamentos."
+  }
+}
