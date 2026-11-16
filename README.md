@@ -23,9 +23,9 @@ Famílias de baixa renda em moradias urbanas da Grande São Paulo (4 pessoas, li
 - **Impacto ambiental:** o ganho climático é pequeno (A: 34 kg CO₂/ano) e, na solar, praticamente nulo (B: -6 kg CO₂/ano), porque a rede elétrica brasileira já é muito limpa. O benefício principal é financeiro.
 - **Atenção:** todos os valores são **estimativas**, não garantias (ver limitações na seção 9).
 
-![Consumo por equipamento](graficos/consumo_por_equipamento.png)
+![Consumo por equipamento](Graficos/consumo_por_equipamento.png)
 
-![Comparação das alternativas](graficos/comparacao_alternativas.png)
+![Comparação das alternativas](Graficos/comparacao_alternativas.png)
 
 ### Comparação das alternativas
 
@@ -36,7 +36,7 @@ Famílias de baixa renda em moradias urbanas da Grande São Paulo (4 pessoas, li
 | B) Solar       | 2,00  | 51,12                        | 201,24               | 185,51              | 9.000,00            | 3,85             | 76.398,19                         | -6,04                          |
 | C) A + Solar   | 1,50  | 30,00                        | 222,36               | 212,87              | 6.838,00            | 2,60             | 91.572,72                         | 29,22                          |
 
-![Sensibilidade do payback da solar](graficos/sensibilidade_payback.png)
+![Sensibilidade do payback da solar](Graficos/sensibilidade_payback.png)
 
 ## Como a análise sustenta o assistente
 
